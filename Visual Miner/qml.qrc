@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Hotels/_Burj al Arab.png</file>
+        <file>Hotels/_Atlantis The Palm.png</file>
+        <file>Hotels/_BeverlyHillsHotel.png</file>
+        <file>Hotels/_Caesars Palace.png</file>
+        <file>Hotels/_Claridge's.png</file>
+        <file>Hotels/_Hotel del Coronado.png</file>
+        <file>Hotels/_JW Marriott.png</file>
+        <file>Hotels/_Kempinski.png</file>
+        <file>Hotels/_Plaza.png</file>
+        <file>Hotels/_Raffles Hotel Singapore.png</file>
+        <file>Hotels/_Ritz Paris.png</file>
+        <file>Hotels/_Taj Mahal.png</file>
+        <file>HotelTooltip.qml</file>
+    </qresource>
+</RCC>
